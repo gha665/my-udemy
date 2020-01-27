@@ -1,0 +1,21 @@
+
+
+h1 {
+	color: rgba(0,200,100, 0.5);
+	border: 2px solid brown;
+}
+
+h4 {
+	background: rgb(255,150,80);
+}
+
+li {
+	color: blue;
+}
+
+body {
+	background: lightgray;
+	/*background: url(https://www.featurepics.com/StockImage/20070302/wood-grain-background--stock-photo-238114.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}

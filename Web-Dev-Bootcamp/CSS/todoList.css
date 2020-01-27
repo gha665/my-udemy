@@ -1,0 +1,15 @@
+body {
+	background: silver;
+}
+
+li {
+	border: 2px solid #398ac3;
+}
+
+#wash {
+	background-color: gold;
+}
+
+.completed {
+	text-decoration: line-through;
+}
